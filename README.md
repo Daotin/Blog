@@ -1,2 +1,2 @@
-# my-life
+# life
 生活博客
